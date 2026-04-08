@@ -12,11 +12,13 @@
 
 #### **Frontend**
 - React
+- Angular
 - Tailwind CSS
 
 #### **Backend**
 - Node.js
 - Express
+- Spring Boot
 
 #### **Bases de données**
 - MySQL
@@ -25,11 +27,13 @@
 #### **Langages**
 - Java
 - JavaScript
+- TypeScript
 
 ---
 
 ### 🎯 **Objectifs**
 - Approfondir React + Node.js (architecture propre & scalable)
+- Approfondir Angular + Spring Boot 
 - Maîtriser DevOps (CI/CD, Docker)
 
 
